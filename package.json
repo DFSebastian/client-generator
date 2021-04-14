@@ -1,5 +1,5 @@
 {
-  "name": "@api-platform/client-generator",
+  "name": "@df-sebastian/client-generator",
   "version": "0.7.3",
   "description": "Generate apps built with Next, Nuxt, Quasar, React, React Native, Vue or Vuetify for any API documented using Hydra or OpenAPI",
   "files": [
@@ -10,8 +10,8 @@
     "templates"
   ],
   "main": "lib/index",
-  "repository": "api-platform/client-generator",
-  "homepage": "https://github.com/api-platform/client-generator",
+  "repository": "DFSebastian/client-generator",
+  "homepage": "https://github.com/DFSebastian/client-generator",
   "bugs": "https://github.com/api-platform/client-generator/issues",
   "author": "Kévin Dunglas",
   "license": "MIT",
